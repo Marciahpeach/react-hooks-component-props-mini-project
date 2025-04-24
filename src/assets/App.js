@@ -3,7 +3,7 @@ import blogData from "../data/blog";
 import App from "../components/App";
 console.log(blogData);
 
-function App() {
+function DemoApp() {
   return (
     <div className="App">
       You're on your own from here! Follow the deliverables; test things out in
@@ -13,4 +13,4 @@ function App() {
   );
 }
 
-export default App;
+export default DemoApp;
